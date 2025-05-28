@@ -1,21 +1,39 @@
+![EcoPark](./ecopark_repo_cover.png)
+
 # EcoPark 🌱
 
-![EcoPark](./portada_ecopark.png)
+**EcoPark** es un juego educativo web diseñado para enseñar sobre reciclaje y cuidado del medio ambiente, inspirado en las áreas ecológicas de *Rioverde, San Luis Potosí*.
 
-EcoPark es un juego educativo web sobre reciclaje y el cuidado del medio ambiente. Inspirado en las áreas ecológicas de Rioverde, San Luis Potosí, este juego busca enseñar a través de la interacción y el juego.
+## 🎮 Características
 
-## Características
+- Niveles con paisajes reales de Rioverde.
+- Temporizador, puntuación y sonidos ambientales.
+- Tablas de historial y opción para compartir en redes.
+- Estilo visual atractivo para captar la atención de los usuarios.
 
-- 🎮 Múltiples niveles con fondos de sitios reales.
-- ♻️ Recolección de residuos reciclables con puntuación.
-- 🔊 Sonidos y animaciones que mejoran la experiencia.
-- 📈 Historial y récord personal.
-- 📱 Compartir tu puntuación en redes sociales.
+## 📁 Estructura del proyecto
 
-## ¿Cómo jugar?
+```
+ecopark-juego/
+│
+├── index.html
+├── favicon.ico
+├── og_ecopark.png
+├── portada_ecopark.png
+│
+└── assets/
+    ├── images/
+    │   ├── parque_lineal_rioverde.jpg
+    │   ├── media_luna_rioverde.jpg
+    │   └── los_peroles_rioverde.jpg
+    └── audio/
+        ├── click.mp3
+        └── reciclaje.mp3
+```
 
-1. Inicia el juego desde `index.html`.
-2. Recoge los residuos tocando o haciendo clic sobre ellos.
-3. Sube tu puntuación y compártela con tus amigos.
 
 
+---
+
+
+Inspirado en la biodiversidad de **Rioverde, S.L.P.**
